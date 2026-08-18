@@ -287,7 +287,7 @@ Como posibles líneas futuras de trabajo se plantea:
 ```text
 proyecto_final_data_science_III/
 │
-├── proyecto_final.ipynb
+├── proyecto_final_data_science_lll_diego_godoy.ipynb
 ├── df_total.csv
 ├── README.md
 └── requirements.txt
